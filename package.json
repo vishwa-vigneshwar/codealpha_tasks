@@ -1,0 +1,25 @@
+{
+    "name": "photo-gallery-backend",
+    "version": "1.0.0",
+    "description": "Backend for Cloud-Based Photo Gallery",
+    "main": "src/app.js",
+    "scripts": {
+      "start": "node src/app.js",
+      "dev": "nodemon src/app.js"
+    },
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+      "aws-sdk": "^2.814.0",
+      "bcryptjs": "^2.4.3",
+      "dotenv": "^8.2.0",
+      "express": "^4.17.1",
+      "jsonwebtoken": "^8.5.1",
+      "mongoose": "^5.10.11",
+      "multer": "^1.4.2"
+    },
+    "devDependencies": {
+      "nodemon": "^2.0.4"
+    }
+  }
+  
