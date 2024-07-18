@@ -1,7 +1,3 @@
-Here's a comprehensive README file for the cloud-based photo gallery project:
-
----
-
 # Cloud-Based Photo Gallery
 
 A cloud-based photo gallery application where users can upload, view, and organize their photos. The application uses AWS S3 for storing images and provides user authentication for secure access.
@@ -113,7 +109,3 @@ Contributions are welcome! Please create an issue or submit a pull request for a
 ## License
 
 This project is licensed under the MIT License.
-
----
-
-Feel free to customize the README further based on your project specifics and any additional instructions or guidelines you want to include.
