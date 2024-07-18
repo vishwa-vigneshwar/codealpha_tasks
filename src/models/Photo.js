@@ -17,4 +17,3 @@ const PhotoSchema = new mongoose.Schema({
   },
 });
 module.exports = mongoose.model('Photo', PhotoSchema);
-
